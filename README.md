@@ -2,8 +2,6 @@
 I am a 3rd year Computer Science student from VIT Vellore, having strong interest in Technology with
 proven leadership and teamwork skills to apply my knowledge and abilities. Skilled in full-stack Android development, Web development and passionate about learning Data science and Machine learning.
 
-<br>😄Passionate Public speaker with 1+ years as a Toastmaster. Currently, doing my pathways on Innovative Planning.</br>
-<br>⚡Vice Presidet of Membership in Toastmasters International.</br>
 <br>👯Love problem solving and Data Structures. </br>
 <br>💬Into writing Tech blogs. Do checkout [https://medium.com/@sanskriti.srivastava2019_64571](url) </br>
 
